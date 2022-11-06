@@ -16,11 +16,7 @@ form button
 {
     left: px !important;
 }
-.carousel img
-{ 
-    height: 100vh !important;
-    width: 100vw !important; 
-}
+ 
 .coll
 {
     background: rgba(212,228,239,1);
